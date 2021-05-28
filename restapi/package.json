@@ -1,0 +1,19 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "REST API for calculations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "author": "Gergan Ruschev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "_id": "restapi@1.0.0",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

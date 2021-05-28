@@ -1,0 +1,9 @@
+client/node_modules
+client/build
+server/node_modules
+restapi/node_modules
+
+.env
+client/.env
+server/.env
+restapi/.env
